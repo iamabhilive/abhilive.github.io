@@ -1,0 +1,42 @@
+body{background-image:url("344.jpg");
+background-size: 500px;
+background-position: right;
+background-attachment:scroll;
+background-repeat:no-repeat;
+background-color: yellow;
+}
+
+h1{color: black;
+text-align:center;
+text-decoration:underline;
+border-style:solid;
+border-width:2px 2px 2px 2px;
+border-color:red;
+border-top-style:dotted;
+margin:100px 0 50px 0;
+padding:20px 40px 10px 10px;
+}
+
+#p1{color: red;
+}
+
+.image1{text-align: center;
+}
+
+#p2{text-align:center;
+}
+
+.form-group{text-align: center;
+}
+
+.info{color: blue;
+}
+
+.points{color: red;
+}
+
+.data{color: brown;
+}
+
+.p5{padding: 20px 20px;
+} 
